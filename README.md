@@ -1,8 +1,10 @@
 # Open Source - Noclip
 
-Created by LeonMrBonnie
+NOT FINISHED YET
 
-[:heart: Support me by becoming a Patron](https://www.patreon.com/leonmrbonnie/)<br>
+[Original in JS - Created by LeonMrBonnie - check it out](https://github.com/LeonMrBonnie/altv-os-noclip)<br>
+
+[:heart: Support me by becoming a Prime Sub](https://www.twitch.com/loastaub/)<br>
 ⭐ This repository if you found it useful!
 
 ---
@@ -17,9 +19,7 @@ This resource provides two easy events to start and stop noclip for a player.
 
 ## Installing Dependencies / Installation
 
-**I cannot stress this enough. Ensure you have NodeJS 13+ or you will have problems.**
-
--   [NodeJS 13+](https://nodejs.org/en/download/current/)
+-   [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 -   An Existing or New Gamemode
 -   General Scripting Knowledge
 
